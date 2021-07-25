@@ -1,0 +1,19 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+### Django ###
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Docker
+docker-compose.override.yml
+
+# Pycharm
+.idea/
+
+.vscode/
+
